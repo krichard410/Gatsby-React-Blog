@@ -7,6 +7,15 @@ module.exports = {
     social: {
       twitter: `krichard410`,
     },
+    menuLinks: [{
+      name: 'home',
+      link: '/'
+    },
+    {
+      name: 'page2',
+      link: '/about'
+    }
+    ]
   },
   plugins: [
     {
