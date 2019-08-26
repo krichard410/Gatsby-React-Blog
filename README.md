@@ -10,7 +10,7 @@ I used some components from a React component library I built (here: https://git
 
 ## A Peek
 
-Left: Homepage
+Left: Homepage<br>
 Right: Blog Post
 
 <p align="center">
