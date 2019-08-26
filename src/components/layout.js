@@ -32,7 +32,7 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <h3
+        <h1
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
@@ -42,13 +42,14 @@ class Layout extends React.Component {
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `grey`,
+              fontSize: `20px`,
             }}
             to={`/`}
           >
-            {title}
+            Back to Home
           </Link>
-        </h3>
+        </h1>
       )
     }
     return (

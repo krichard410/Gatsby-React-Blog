@@ -1,22 +1,27 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Hello World...
+date: "2019-07-01T22:12:03.284Z"
+description: "Hello World! I'm a Student that is passionate on Front-End developement and Design."
 ---
 
 This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+This is one of my side projects I worked on for a couple months. The aim was
+to develop my React skills and Gatsby skills. I used Netlify to deploy this site.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+## About Me
 
-![Chinese Salty Egg](./salty_egg.jpg)
+I'm studying Computer Science with a minor in Anthropology and Sociology at
+Dalhousie University. 
+<br><br>
+My focus is on *DevRel, UI/UX, and Front-End Development*. 
+<br><br>
+I am continously learning and trying new technologies out.
+<br><br>
+I have experience in start-up and large companies working with 
+DevRel, DevOps, and both Back-End and Front-End Development.
+
+
+![Profile](./profile.png)

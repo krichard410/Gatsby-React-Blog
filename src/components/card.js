@@ -4,7 +4,6 @@ import { color } from "../../theme";
 import "../../index.css";
 
 export const Title = styled.h2`
-  font-size: 1.4rem;
   color: #2d3561;
   margin-bottom: 0;
 `;
@@ -19,7 +18,6 @@ export const Card = styled.div`
   border-radius: 5px;
   margin-bottom: 3rem;
   padding: 1rem;
-  padding-top: 0rem;
   align-items: stretch;
   justify-content: space-between;
   border-left: 0.3rem solid #3ec8ac;
@@ -44,7 +42,6 @@ export const Card = styled.div`
 
 export const Paragraph = styled.p`
   font-size: 1.1rem;
-  margin-top: 0;
 `;
 
 export const Wrapper = styled.div`
