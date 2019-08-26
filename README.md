@@ -10,7 +10,8 @@ I used some components from a React component library I built (here: https://git
 
 ## A Peek
 
-Left: Home  Right: Blog Post
+Left: Homepage
+Right: Blog Post
 
 <p align="center">
   <img src="Screen Shot 2019-08-26 at 2.37.43 PM.png" width="350" title="hover text">
