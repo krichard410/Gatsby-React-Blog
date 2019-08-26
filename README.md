@@ -10,4 +10,4 @@ I used some components from a React component library I built (here: https://git
 
 ## A Peek
 
-![Screenshot](Screen Shot 2019-08-26 at 2.37.43 PM.png)
+![Screen Shot 2019-08-26 at 2.37.43 PM.png](Screen Shot 2019-08-26 at 2.37.43 PM.png)
