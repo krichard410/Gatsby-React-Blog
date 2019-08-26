@@ -1,13 +1,21 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: Tips and Tricks
+date: "2019-07-06T23:46:37.121Z"
+description: "This is a curated list of programs that i find useful for tech"
 ---
 
-Wow! I love blogging so much already.
+This is a curated list of programs that i find useful for tech:
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
+### Great for Designing, Prototyping, Wireframing:
+> Adobe Illustrator<br>
+> Sketch<br>
+> Miro<br>
 
-Yeah, I didn't either.
+### Great for Coding and Programming:
+> Github<br>
+> Visual Studio Code<br>
+> IntelliJ<br>
+> Even sometimes JGrasp<br>
+
+
+

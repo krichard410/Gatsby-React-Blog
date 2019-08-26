@@ -14,24 +14,33 @@ code {
     monospace;
 }
 
+title{
+  font-family: 'PT Serif', serif;
+}
+
+a{
+  font-family: 'PT Serif', serif;
+}
+
 h1, h2 {
   font-size: 40px;
   font-family: 'PT Serif', serif;
 }
 
 h3, h4 {
-  font-family: 'Ubuntu';
+  font-family: 'PT Serif', serif;
   font-size: 32px;
 }
 
 h5, h6{
-  font-family: 'Sacramento', cursive;
+  font-family: 'PT Serif', serif;
 }
 
 p {
-  font-size: 18px;
+  font-size: 15px;
   display: inline-block;
-  font-family: 'EB Garamond', serif;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+  monospace;
 }
 
 .container {
